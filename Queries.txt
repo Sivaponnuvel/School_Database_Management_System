@@ -1,0 +1,45 @@
+🔹 Simple Queries (5)
+
+(Basic SELECT / WHERE / ORDER BY)
+
+1.Display the student_id, student_name, and gender of all students.
+
+2.List all classes ordered by class_name.
+
+3.Display the teacher_name and subject from the teachers table.
+
+4.Show all students who belong to a specific class_id.
+
+5.Retrieve all attendance records for a specific date.
+
+
+
+🔸 Intermediate Queries (5)
+
+(GROUP BY / HAVING / Aggregate functions)
+
+1.Count the total number of students in each class.
+
+2.Display the number of students by gender.
+
+3.Find the total number of teachers teaching each subject.
+
+4.Show the number of attendance records per date.
+
+5.Display class IDs having more than 10 students.
+
+
+
+🔺 Advanced Queries (5)
+
+(JOINS / Subqueries / Advanced Aggregation)
+
+1.Display student names along with their class name and section.
+
+2.List subjects along with the teacher name who teaches them.
+
+3.Display student names and their attendance status for each date.
+
+4.Find the class name that has the highest number of students.
+
+5.List students who were marked Absent at least once.
